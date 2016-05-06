@@ -7,7 +7,7 @@ comments: true
 image:
   feature: kayak-2.jpg
   credit: hafsah mohammed
-  creditlink: https://hafymo.co/
+  creditlink: http://hafymo.com/
 ---
 
 
